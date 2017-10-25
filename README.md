@@ -14,7 +14,7 @@ The adaptation of the learning rate to the slope of the loss function is paying 
 
 <img src="https://screenshots.firefoxusercontent.com/images/c54c6e62-03c2-4c64-9e7e-91ddeef36604.png"/>
 
-The blue kurves are from the run with a shifting learning rate. It allows to start with a larger learning rate and end with a much smaller learning rate an the end. 
+The blue kurves are from the run with a shifting learning rate. It allows to start with a larger learning rate and reducing the learning rate towards the end. 
 
 The hyperparameters are optimized for GPU. I installed Anaconda, Cuda9 and Keras on Ubuntu 16.04 to do this experiment.
 
