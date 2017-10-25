@@ -10,7 +10,7 @@ I made this Jupyter notebook to learn some concepts of Keras.
 - Using tensorboard to monitor the training
 - Using different learning rates while training
 
-The adaptation of the learning rate to the slope of the loss function is paying of. Just compare these examples monitored with tensorboard:
+The adaptation of the learning rate to the slope of the loss function is paying off. Just compare these examples monitored with tensorboard:
 
 <img src="https://screenshots.firefoxusercontent.com/images/c54c6e62-03c2-4c64-9e7e-91ddeef36604.png"/>
 
